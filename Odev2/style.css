@@ -1,0 +1,24 @@
+.text-center{
+    text-align: center;
+}
+
+#headerImage{
+    width: 351;
+    height:113;
+    display: block;
+    margin: auto;
+
+}
+
+.container {
+    margin: auto;
+}
+
+table{
+    width: 90%;
+    text-align: center;
+}
+
+button{
+    margin-right: 5px;
+}
