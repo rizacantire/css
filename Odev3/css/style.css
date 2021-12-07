@@ -26,6 +26,15 @@
   .headerli a:hover {
     text-decoration: underline;
   }
+  .goxjub{
+    height: 25px;
+    margin-left: 490px;
+    margin-top: 5px;
+    position: absolute;
+  }
+  .goxjub:hover{
+    cursor: pointer;
+  }
   
   .container {
     text-align: center;
